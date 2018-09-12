@@ -1,0 +1,11 @@
+{
+  "name": "modelwasm",
+  "version": "1.0.0",
+  "description": "This is a sample project to create parsing simple json file with wasm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m0hamm3d-ac",
+  "license": "ISC"
+}
